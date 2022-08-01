@@ -1,6 +1,6 @@
 # NMA-Robolympics
 
-
+trained a reinforcement learning agent to control the robots (.e.g hopper robot or ant robot) in order to solve a variety of Olympics-themed tasks (like 100-meter dash and marathon) 
 
 ## General Information
 
