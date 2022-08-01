@@ -13,8 +13,7 @@ Action represents the numerical torques applied between links.
 
 
 ### Rewards Function
-Some important rewards: 
-[ alive bonus + progress + electricity cost +  speed reward + jump reward ]
+Some important rewards: alive bonus + progress + electricity cost +  speed reward + jump reward
 - **alive bouns**: Every timestep that the hopper is alive, it gets reward of 1.
 - **progress**: This reward would be positive if the hopper hops forward or right desired.
 - **electricity cost**: A negetive reward for penalizing the hopper if it take action that are too large.
