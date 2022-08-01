@@ -18,8 +18,8 @@ Some important rewards:
 - **alive bouns**: Every timestep that the hopper is alive, it gets reward of 1.
 - **progress**: This reward would be positive if the hopper hops forward or right desired.
 - **electricity cost**: A negetive reward for penalizing the hopper if it take action that are too large.
-- **speed reward**: The speed of the robot's joints
-- **jump reward**: Robot movement in x and z coordinates 
+- **speed reward**: A positive reward for The speed of the robot's joints
+- **jump reward**: A positive rewrd for Robot movement in x and z coordinates 
 
 
 
