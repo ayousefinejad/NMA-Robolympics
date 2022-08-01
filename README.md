@@ -14,7 +14,7 @@ Action represents the numerical torques applied between links.
 
 ### Rewards Function
 Some important rewards: 
-alive bonus + progress + electricity cost +  speed reward + jump reward
+[alive bonus + progress + electricity cost +  speed reward + jump reward]
 
 alive bouns: Every timestep that the hopper is alive, it gets reward of 1.
 
